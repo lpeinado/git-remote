@@ -1,0 +1,7 @@
+  521  curl --header "LLUIS_API_TOKEN: VAKResrtDEVtuZCzhqTy" "https://gitlab.emobg.io/api/v4/projects" > emobg-gitlab-projects.txt
+  522  curl --header "LLUIS_API_TOKEN: VAKResrtDEVtuZCzhqTy" "https://gitlab.emobg.io/api/v4/projects/918/merge_requests?search=PMR-954"
+  523  curl --header "LLUIS_API_TOKEN: VAKResrtDEVtuZCzhqTy" "https://gitlab.emobg.io/api/v4/projects"
+  524  curl --header "LLUIS_API_TOKEN: VAKResrtDEVtuZCzhqTy" "https://gitlab.emobg.io/api/v4/projects/:918/merge_requests?search=PMR-954"
+  525  curl --header "LLUIS_API_TOKEN: VAKResrtDEVtuZCzhqTy" "https://gitlab.emobg.io/api/v4/projects/:918/merge_requests?search=PMR-954"
+  526  curl --header "LLUIS_API_TOKEN: VAKResrtDEVtuZCzhqTy" "https://gitlab.emobg.io/api/v4/projects/frontend/alc/web-document-validation/merge_requests?search=PMR-954"
+  527  curl --header "LLUIS_API_TOKEN: VAKResrtDEVtuZCzhqTy" "https://gitlab.emobg.io/api/v4/projects/frontend/alc/web-document-validation/merge_requests?"
